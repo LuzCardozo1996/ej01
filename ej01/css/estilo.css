@@ -1,0 +1,42 @@
+h2{
+	text-align: center;
+	font-family: "Homer Simpson UI";
+	border-radius: 2px;
+	border: 1px solid #000;
+	width: 30%; margin-top: 30px;
+	margin-left: auto;
+   margin-right: auto;
+   border-radius:  4px;
+   background-color: #A3ABAA;
+}
+#divi{
+	text-align: center;
+}
+#ingresar{
+	padding: 20px;
+	margin-top: 20px;
+	text-align: left;
+	background-color: #E4F6F5;
+	border-radius:  4px;
+}
+#result{
+	padding: 20px;
+	margin-top: 20px;
+	text-align: left;
+	background-color: #E4F6F5;
+	border-radius:  4px;
+}
+#ingresar, #result{
+	width: 30%; margin-top: 30px;
+	margin-left: auto;
+  margin-right: auto;
+}
+#cotizacion, #montoI, #resultado{
+		text-align-last: center;
+}
+body{
+	background-color: #EAECEB;
+}
+#divisas{
+	border-radius: 4px;
+}
